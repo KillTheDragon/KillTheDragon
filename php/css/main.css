@@ -67,10 +67,12 @@ div.fight_screen{
 
 div.player_health {
     text-align: center;
+    color: #00ACFF;
 }
 
 div.dragon_health {
     text-align: center;
+    color: #FF3500;
 }
 
 /*********************
